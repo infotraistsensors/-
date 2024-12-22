@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Olive Farming Dashboard</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <h1>Olive Farming Dashboard</h1>
+
+  <!-- Weather Info -->
+  <div id="weather">
+    <h2>Weather Info</h2>
+    <p id="weather-info">Loading...</p>
+  </div>
+
+  <!-- Yield Chart -->
+  <div id="chart">
+    <h2>Olive Yield Over Time</h2>
+    <canvas id="yieldChart"></canvas>
+  </div>
+
+  <script src="script.js"></script>
+</body>
+</html>
