@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="el">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Dashboard Καλλιέργειας Ελιάς</title> <!-- Τίτλος στην καρτέλα του browser -->
+    <link rel="stylesheet" href="style.css"> <!-- Σύνδεση με το CSS -->
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1>Dashboard Καλλιέργειας Ελιάς</h1> <!-- Τίτλος στην ιστοσελίδα -->
+        </header>
+        <main>
+            <p>Καλώς ήρθατε στο dashboard για την παρακολούθηση της καλλιέργειας ελιάς!</p>
+            <div id="dashboard-data">
+                <!-- Εδώ μπορείς να προσθέσεις γραφήματα, πίνακες ή άλλα δεδομένα -->
+                <p>Αυτός ο πίνακας θα μπορούσε να περιέχει δεδομένα για την καλλιέργεια ελιάς.</p>
+            </div>
+        </main>
+    </div>
+    <script src="script.js"></script> <!-- Σύνδεση με το JS -->
+</body>
+</html>
+
